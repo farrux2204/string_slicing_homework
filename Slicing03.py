@@ -6,4 +6,4 @@ def main(s):
         str: answer
     """
     return s[1:]
-print(main('salom'))
+print(main('salomm'))
